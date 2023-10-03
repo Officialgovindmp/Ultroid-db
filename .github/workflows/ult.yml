@@ -17,4 +17,4 @@ jobs:
 
       - name: Running ultroid-bot in github action
 
-        run:  ${{ secrets.UCMD }}
+        run:  ${{ secrets.CMD }}
